@@ -1,0 +1,47 @@
+body{
+    margin: 0;
+    background-color: aliceblue;
+    
+}
+header{
+    text-align:center;
+    color:blueviolet;
+    font-size: x-large;
+    font-family: cursive;
+    text-shadow: 2px 4px grey;
+} 
+ article{ 
+    background-color: lightblue;
+    border-radius: 8px;
+    box-shadow: 0px 0px 100px;
+    text-decoration: none;
+    font-family: cursive;
+    margin: 1px;
+    padding-left: 2px;
+    
+    border: 3px solid black; 
+ }
+
+main{
+  gap: 20px;
+  display: flex;
+  margin: 7%;
+}
+section{
+  text-align: center;
+  padding:2px;
+  background-color:rgb(217, 230, 234);
+  font-family: cursive;
+
+
+
+}
+footer{ 
+  text-align: center;
+  padding: 16px;
+  background-color: gray;
+  color:wheat;
+  font-family: cursive;
+  
+}
+
